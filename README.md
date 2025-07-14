@@ -4,7 +4,7 @@ AutoLitigator is an autonomous AI-powered legal assistant designed to streamline
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 AutoLitigator enables users to:
 
